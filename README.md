@@ -29,3 +29,5 @@
 -> Day 13 = Abstract Classes
 
 -> Day 14 = Scope
+
+-> Day 15 = Linked List
