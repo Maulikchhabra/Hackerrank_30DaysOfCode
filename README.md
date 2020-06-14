@@ -47,3 +47,5 @@
 -> Day 22 = Binary Search Trees
 
 -> Day 23 = BST Level Order Traversal
+
+-> Day 24 = More Linked Lists
